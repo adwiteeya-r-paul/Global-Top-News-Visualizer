@@ -1,4 +1,4 @@
-# Google-Trends-Visualizer-Map
+# Global-Top-News-Visualizer
 
 This is an ongoing passion project that I am building with an intention to submit in the Google Maps Platform Awards - the deadline of which is August 1, 2025. 
 
